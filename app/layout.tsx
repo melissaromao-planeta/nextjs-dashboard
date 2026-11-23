@@ -1,3 +1,4 @@
+// @ts-expect-error CSS is processed by Next.js and has no TypeScript module declaration.
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
  
